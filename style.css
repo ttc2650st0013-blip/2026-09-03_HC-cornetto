@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+body
+{
+ background: rgb(247, 251, 255);
+ color: rgb(55, 59, 63);
+}
+
+ul
+{
+ color: rgb(23, 27, 31);
+}
+
+a
+{
+ color: rgb(55, 59, 63);
+}
+
+a:visited
+{
+ color: rgb(127, 0, 31);
+}
+
+a:hover
+{
+ color: rgb(255, 0, 63);
+}
